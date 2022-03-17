@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Yabetsu16,
 - 👀 I’m interested in programming and games.
-- 🌱 I’m currently learning reactjs and unity.
-- 💞️ I’m looking to collaborate on game development projects.
+- 🌱 I’m currently learning java.
 - 📫 You can reach me by email.
