@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Yabetsu16,
 - 👀 I’m interested in programming and games.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently working
 - 📫 You can reach me by email.
